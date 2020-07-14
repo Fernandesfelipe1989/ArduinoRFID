@@ -1,0 +1,10 @@
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\bin\Debug\PI_RFID_Arduino_WindowsFormsApp.exe.config
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\bin\Debug\PI_RFID_Arduino_WindowsFormsApp.exe
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\bin\Debug\PI_RFID_Arduino_WindowsFormsApp.pdb
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.Form1.resources
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.Properties.Resources.resources
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.exe
+C:\Users\pheli\Desktop\API RFID ARDUINO\API_RFID_Arduino\PI_RFID_Arduino_WindowsFormsApp\obj\Debug\PI_RFID_Arduino_WindowsFormsApp.pdb
